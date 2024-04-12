@@ -9,7 +9,7 @@ contract Verification {
     address public owner;
 
     struct  Record  {
-        uint blockNumber; 
+        uint256 blockNumber; 
         uint minetime; 
         string info;
         string ipfs_hash;
