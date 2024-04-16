@@ -48,11 +48,9 @@ This project aims to create a secure and decentralized system for document verif
 
 ## Installation
 
-1. Clone this repository: 
-``https://github.com/DevAloshe/BlockLock-Based-Documents-Verfication-System-With-IPFS-main``
-
-
-2. Install the required packages:
+1. Clone this repository
+   
+3. Install the required packages:
 
 ``cd BlockLock-Based-Document-Verfication-With-IPFS
 npm install``
