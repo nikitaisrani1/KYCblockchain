@@ -77,7 +77,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - Solidity and Web3.js documentation
 - IPFS documentation
 - Truffle documentation
-
-
-
-
